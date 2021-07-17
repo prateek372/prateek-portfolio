@@ -6,7 +6,7 @@
     "note": "Developed using JavaScript and React",
     "link": "",
     "github": "https://github.com/prateek372",
-    "imgURL": "/assets/images/projects/portfolio.png",
+    "imgURL": "/assets/images/portfolio.png",
     "technologies": [
       {
         "name": "JavaScript",
@@ -37,7 +37,7 @@
     "note": "Developed using Node,  Express & Mongoose Middleware",
     "link": "",
     "github": "https://github.com/prateek372",
-    "imgURL": "/assets/images/projects/tesla-api.png",
+    "imgURL": "/assets/images/tesla-api.png",
 
     "technologies": [
       {
@@ -69,7 +69,7 @@
     "note": "Developed using JavaScript, React.js, API-QuizTrivia",
     "link": "https://quizup2.herokuapp.com/",
     "github": "https://github.com/prateek372",
-    "imgURL": "/assets/images/projects/quizup.png",
+    "imgURL": "/assets/images/quizup.png",
 
     "technologies": [
       {
@@ -100,7 +100,7 @@
     "description": "A simple weather-app that uses OpenWeather-API to display current weather with Minimum and Maximum temperatures of the day, based on user selected location.",
     "link": "https://weather-app-react372.herokuapp.com/",
     "github": "https://github.com/prateek372",
-    "imgURL": "/assets/images/projects/React-weather-app.png",
+    "imgURL": "/assets/images/React-weather-app.png",
     "technologies": [
       {
         "name": "JavaScript",
