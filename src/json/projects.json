@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Personal Portfolio",
+    "subtitle": "A multi-page web application built using JavaScript and React.js.",
+    "description": "The Personal Portfolio website is an opportunity to reach more people with my work. The portfolio encapsulates 3 years of experience in the Technology and Software field as an attempt to better understand various phases in the software development life cycle.",
+    "note": "Developed using JavaScript and React",
+    "link": "",
+    "github": "https://github.com/prateek372",
+    "imgURL": "/assets/images/projects/portfolio.png",
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "type": "language",
+        "icon": "fab fa-js-square"
+      },
+      {
+        "name": "React",
+        "type": "framework",
+        "icon": "fab fa-react"
+      },
+      {
+        "name": "Bootstrap",
+        "type": "framework",
+        "icon": "fab fa-bootstrap"
+      },
+      {
+        "name": "Font Awesome",
+        "type": "framework",
+        "icon": "fab fa-font-awesome"
+      }
+    ]
+  },
+  {
+    "name": "Tesla Superchargers API",
+    "subtitle": "An extensive backend API for Tesla Superchargers",
+    "description": "Real World Backend RESTful API that can be integrated with websites to offer details of Tesla Superchargers like location, status, kW Rating snd much more. Incorporates modern aspects of API design like Geocoding and error handling including HTTP fundamentals like Req/Res Cycle with Status Code.",
+    "note": "Developed using Node,  Express & Mongoose Middleware",
+    "link": "",
+    "github": "https://github.com/prateek372",
+    "imgURL": "/assets/images/projects/tesla-api.png",
+
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "type": "language",
+        "icon": "fab fa-js-square"
+      },
+      {
+        "name": "MongoDB",
+        "type": "tool",
+        "icon": "fas fa-database"
+      },
+      {
+        "name": "Express.js",
+        "type": "framework",
+        "icon": "far fa-file-code"
+      },
+      {
+        "name": "Node.js",
+        "type": "tool",
+        "icon": "fab fa-node-js"
+      }
+    ]
+  },
+  {
+    "name": "QuizUp - Web App",
+    "subtitle": "Quiz App based on JavaScript and React.js",
+    "description": "The QuziUp is a fun app developed to allow users to customize their own Quiz-Trivia by selecting Quiz Category, number of questions & time-limit for the quiz. This is an under-development app, with the initial released version that holds a fixed set of questions for users to play and enjoy.",
+    "note": "Developed using JavaScript, React.js, API-QuizTrivia",
+    "link": "https://quizup2.herokuapp.com/",
+    "github": "https://github.com/prateek372",
+    "imgURL": "/assets/images/projects/quizup.png",
+
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "type": "language",
+        "icon": "fab fa-js-square"
+      },
+      {
+        "name": "React",
+        "type": "framework",
+        "icon": "fab fa-react"
+      },
+      {
+        "name": "HTML",
+        "type": "language",
+        "icon": "fab fa-html5"
+      },
+      {
+        "name": "CSS",
+        "type": "language",
+        "icon": "fab fa-css3-alt"
+      }
+    ]
+  },
+  {
+    "name": "Simple Weather App",
+    "subtitle": "A weather app that displays real-time weather for selected location",
+    "description": "A simple weather-app that uses OpenWeather-API to display current weather with Minimum and Maximum temperatures of the day, based on user selected location.",
+    "link": "https://weather-app-react372.herokuapp.com/",
+    "github": "https://github.com/prateek372",
+    "imgURL": "/assets/images/projects/React-weather-app.png",
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "type": "language",
+        "icon": "fab fa-js-square"
+      },
+      {
+        "name": "React",
+        "type": "framework",
+        "icon": "fab fa-react"
+      },
+      {
+        "name": "HTML",
+        "type": "language",
+        "icon": "fab fa-html5"
+      },
+      {
+        "name": "CSS",
+        "type": "language",
+        "icon": "fab fa-css3-alt"
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+
+[
+  {
+    "background1": "Detail-oriented individual looking for a software developer position in fast-growing company to utilize my technical skills and working knowledge of software applications, development and design.",
+    "languages": [
+      {
+        "name": "Python",
+        "type": "language",
+        "icon": "fab fa-python"
+      },
+      {
+        "name": "JavaScript",
+        "type": "language",
+        "icon": "fab fa-js-square"
+      },
+      {
+        "name": "SQL",
+        "type": "language",
+        "icon": "fas fa-database"
+      },
+      {
+        "name": "Java",
+        "type": "language",
+        "icon": "fab fa-java"
+      }
+    ],
+    "tools": [
+      {
+        "name": "GitHub",
+        "type": "tool",
+        "icon": "fab fa-github"
+      },
+      {
+        "name": "Node.js",
+        "type": "tool",
+        "icon": "fab fa-node-js"
+      },
+      {
+        "name": "NPM",
+        "type": "tool",
+        "icon": "fab fa-npm"
+      },
+      {
+        "name": "MySQL",
+        "type": "tool",
+        "icon": "fas fa-database"
+      },
+      {
+        "name": "MongoDB",
+        "type": "tool",
+        "icon": "fas fa-database"
+      },
+      {
+        "name": "VS Code",
+        "type": "tool",
+        "icon": "fas fa-tools"
+      }
+    ],
+    "libraries": [
+      {
+        "name": "React",
+        "type": "framework",
+        "icon": "fab fa-react"
+      },
+      {
+        "name": "Express",
+        "type": "framework",
+        "icon": "far fa-file-code"
+      },
+      {
+        "name": "Bootstrap",
+        "type": "framework",
+        "icon": "fab fa-bootstrap"
+      },
+      {
+        "name": "jQuery",
+        "type": "framework",
+        "icon": "far fa-file-code"
+      },
+      {
+        "name": "Mongoose",
+        "type": "framework",
+        "icon": "far fa-file-code"
+      }
+    ]
+  }
+]
