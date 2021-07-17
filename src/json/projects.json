@@ -6,7 +6,7 @@
     "note": "Developed using JavaScript and React",
     "link": "",
     "github": "https://github.com/prateek372",
-    "imgURL": "/assets/images/portfolio.png",
+    "imgURL": "./assets/images/portfolio.png",
     "technologies": [
       {
         "name": "JavaScript",

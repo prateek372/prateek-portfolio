@@ -1,7 +1,7 @@
 import React from 'react'
 import aboutMe from '../json/about-me.json'
 
-const githubDir = `/react-portfolio`
+const githubDir = `.`
 
 const Home = () => {
   const content = aboutMe ? aboutMe[0] : {}
